@@ -4,7 +4,7 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "+201002255916"
 global.confirmCode = ""
 global.authFile = `MysticSession`;
 
@@ -16,7 +16,7 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
+  ['201507975263', '👑 Mystic - Creador 👑', true],
   ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
@@ -54,8 +54,8 @@ global.owner = [
   ['5218713339906']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['201002255916'];
+global.prems = ['201507975263'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriussapi-oficial.vercel.app";
@@ -100,7 +100,7 @@ global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219993404349';
+global.nomorown = '201002255916';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
